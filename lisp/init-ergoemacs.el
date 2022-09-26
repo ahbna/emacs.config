@@ -1,0 +1,5 @@
+(require 'ergoemacs-mode)
+(setq ergoemacs-theme nil)
+(setq ergoemacs-keyboard-layout "us")
+(ergoemacs-mode 1)
+(provide 'init-ergoemacs)
